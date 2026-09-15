@@ -1,5 +1,5 @@
 Name:      tuxlava
-Version:   0.24.0
+Version:   0.25.0
 Release:   0%{?dist}
 Summary:   TuxLAVA, helps to generate LAVA jobs
 License:   MIT
@@ -58,6 +58,9 @@ ln -sf ../share/tuxlava/run %{buildroot}/usr/bin/tuxlava
 %license LICENSE
 
 %changelog
+* Tue Sep 15 2026 Anders Roxell <anders.roxell@linaro.org> - 0.25.0-1
+- Release 0.25.0. See: https://github.com/kernelci/tuxlava/releases/tag/v0.25.0
+
 * Wed Jul 22 2026 Anders Roxell <anders.roxell@linaro.org> - 0.24.0-1
 - Release 0.24.0. See: https://github.com/kernelci/tuxlava/releases/tag/v0.24.0
 

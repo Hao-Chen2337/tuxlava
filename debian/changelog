@@ -1,3 +1,9 @@
+tuxlava (0.25.0-1) UNRELEASED; urgency=medium
+
+  * Release 0.25.0. See: https://github.com/kernelci/tuxlava/releases/tag/v0.25.0
+
+ -- Anders Roxell <anders.roxell@linaro.org>  Tue, 15 Sep 2026 09:36:40 +0200
+
 tuxlava (0.24.0-1) UNRELEASED; urgency=medium
 
   * Release 0.24.0. See: https://github.com/kernelci/tuxlava/releases/tag/v0.24.0
